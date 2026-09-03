@@ -1,0 +1,7 @@
+WWW
+articles.py : 
+articles.html :
+test_article.py :
+Test Output
+  screenshot : 
+  cmd : bench --site practice.local run-tests --app guides_app
