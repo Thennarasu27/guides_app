@@ -1,7 +1,7 @@
 WWW
-articles.py : 
-articles.html :
-test_article.py :
+  articles.py : https://github.com/Thennarasu27/guides_app/blob/main/guides_app/www/articles.py
+  articles.html : https://github.com/Thennarasu27/guides_app/blob/main/guides_app/www/articles.html
+test_article.py : https://github.com/Thennarasu27/guides_app/blob/main/guides_app/tests/test_article.py
 Test Output
-  screenshot : 
+  screenshot : https://github.com/Thennarasu27/guides_app/blob/main/guides3.png
   cmd : bench --site practice.local run-tests --app guides_app
